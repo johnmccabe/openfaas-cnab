@@ -1,6 +1,6 @@
 # OpenFaaS CNAB Duffle Packaging
 
-This repo packages up OpenFaaS for Docker Swarm as a [CNAB Bundle](https://github.com/deislabs/cnab-spec/) using the [duffle](https://github.com/deislabs/duffle) CNAB installer.
+This repo packages up [OpenFaaS](https://github.com/openfaas/faas) for Docker Swarm as a [CNAB Bundle](https://github.com/deislabs/cnab-spec/) using the [duffle](https://github.com/deislabs/duffle) CNAB installer.
 
 - https://open.microsoft.com/2018/12/04/announcing-cnab-cloud-agnostic-format-packaging-running-distributed-applications/
 - https://techcrunch.com/2018/12/04/microsoft-and-docker-team-up-to-make-packaging-and-running-cloud-native-applications-easier/
